@@ -1,0 +1,24 @@
+{
+  "name": "@source4society/react-scrollintoview-wrapper",
+  "version": "0.0.1",
+  "description": "Wrapped component will scroll to top when mounted",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/source4societyorg/scepter-scrollintoview-wrapper.git"
+  },
+  "keywords": [
+    "react",
+    "scrolltop",
+    "navigation"
+  ],
+  "author": "Source 4 Society",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/source4societyorg/scepter-scrollintoview-wrapper/issues"
+  },
+  "homepage": "https://github.com/source4societyorg/scepter-scrollintoview-wrapper#readme"
+}
