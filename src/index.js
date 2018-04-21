@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { withRouter } from 'react-router';
 
 export default function (WrappedComponent) {
   class ResetWindowScroll extends Component {
@@ -16,5 +15,5 @@ export default function (WrappedComponent) {
   ResetWindowScroll.propTypes = {
     location: PropTypes.object,
   };
-  return withRouter(ResetWindowScroll);
+  return ResetWindowScroll;
 }
